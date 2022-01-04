@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1287037037037037" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/btn_design.xml" value="0.28229166666666666" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/buttonbackground.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/cardbackground.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/custom_input.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/ic_baseline_account_box.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/ic_baseline_account_circle.xml" value="0.22962962962962963" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/ic_baseline_calculate.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/ic_baseline_contact_phone.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/ic_baseline_email.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/ic_baseline_home.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/ic_baseline_local_phone.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/ic_baseline_lock.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/malefemalefocus.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/malefemalenofocus.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/drawable/plusminus.xml" value="0.1484375" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_account_profile.xml" value="0.33" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_addcontact.xml" value="0.23278985507246377" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_anywhere_events.xml" value="0.264" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_bmi.xml" value="0.2515625" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_bmipage2.xml" value="0.2515625" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_common_in_home.xml" value="0.25" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_contentofprofile.xml" value="0.33" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_edit.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_emergencyhotlines.xml" value="0.25" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_ex.xml" value="0.2375" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_first_aid_basics.xml" value="0.18692307692307691" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_first_aid_myths.xml" value="0.264" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_front_loading_screen.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_howtotreatthem.xml" value="0.26268115942028986" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_navigation_one.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_navigation_two.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_outdoor_events.xml" value="0.264" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_page3.xml" value="0.22" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_preventive_measures.xml" value="0.23416506717850288" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_serious_incidents.xml" value="0.264" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_splash.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_usefullstuff.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/activity_usefulstuff.xml" value="0.264" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/btn_radius.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/content_page3.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/header.xml" value="0.25" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/nav_header.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/layout/nav_header_page3.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/menu/drawer_menu.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/menu/main_menu.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1328125" />
+        <entry key="..\:/Users/jeffe/AndroidStudioProjects/FirstAidKit3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1287037037037037" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.14" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
